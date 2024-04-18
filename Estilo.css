@@ -21,11 +21,12 @@ height: 70em;
 
 
 }
-h1{
+h1,h2{
 
 
     text-align: center;
 }
+
 p{
 
     padding: 1em;
@@ -77,6 +78,13 @@ a:hover{
 
     }
 
+.Contenedor{
+
+
+width: 32em;
+
+
+}
 
 
 }
@@ -87,5 +95,11 @@ a:hover{
 
 
     }
-   
+    .Contenedor{
+
+
+        width: 32em;
+        
+        
+        }
 }
