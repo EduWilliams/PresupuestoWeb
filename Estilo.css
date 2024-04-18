@@ -66,7 +66,7 @@ a:hover{
 
     }
     #Tamaño{
-        width: 20em;
+        width: 25em;
         height: 80em;
 
      }
@@ -76,7 +76,13 @@ a:hover{
         font-size: 0.75em;
 
     }
-    
+
+    #Tamaño{
+width: 51.3em;
+height: 70em;
+
+
+}
 }
 @media(max-width: 576px) {
     body{
@@ -91,7 +97,12 @@ width: 32em;
 height: 80em;
 
 }
-
+#Tamaño{
+    width: 51.3em;
+    height: 80em;
+    
+    
+    }
 
 }
 
@@ -109,4 +120,10 @@ height: 80em;
         
         
         }
+        #Tamaño{
+            width: 51.3em;
+            height: 80em;
+            
+            
+            }
 }
