@@ -65,17 +65,18 @@ a:hover{
         font-size: 0.812em;
 
     }
+    #Tamaño{
+        width: 30em;
+        height: 80em;
+
+     }
 }
 @media(max-width: 768px) {
     body{
         font-size: 0.75em;
 
     }
-     #Tamaño{
-        width: 30em;
-        height: 80em;
-
-     }
+    
 }
 @media(max-width: 576px) {
     body{
