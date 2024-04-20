@@ -29,7 +29,8 @@ h1,h2{
 
 p{
 
-    padding: 1em;
+margin-right: 1em;
+margin-left: 1em;
 
 
 }
@@ -49,7 +50,8 @@ a:hover{
 }
 #p{
 
-    width: 16em;
+    width: 15em;
+    height: 12em;
 }
 
 @media(max-width: 1200px) {
@@ -104,6 +106,10 @@ height: 80em;
     
     }
 
+}
+.logo{
+
+    display: flex;
 }
 
 @media(max-width: 300px) {
