@@ -54,6 +54,10 @@ a:hover{
     height: 12em;
 }
 
+.logo{
+
+    display: flex;
+}
 @media(max-width: 1200px) {
     body{
         font-size: 0.875em;
@@ -105,12 +109,14 @@ height: 80em;
     
     
     }
+    #p{
 
+        width: 16em;
+        height: 12em;
+    }
 }
-.logo{
 
-    display: flex;
-}
+
 
 @media(max-width: 300px) {
     body{
@@ -131,5 +137,10 @@ height: 80em;
             height: 20em;
             
             
+            }
+            #p{
+
+                width: 16em;
+                
             }
 }
