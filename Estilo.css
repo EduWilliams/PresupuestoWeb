@@ -1,13 +1,12 @@
 body{
- background: url(OIP2.jpg);
-
-    font-size: 16px;
+ background-color: rgb(9, 156, 112);
+ font-size: 16px;
 }
 
 
 .Contenedor{
-
-float:inline-end ;
+margin: 15em;
+justify-content: center;
 width: 30em;
 height: 70em;
 background-color: rgb(240, 236, 230);
