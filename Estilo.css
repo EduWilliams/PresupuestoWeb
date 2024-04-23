@@ -30,7 +30,7 @@ h1,h2{
 }
 
 p{
-
+text-align: center;
 margin-right: 1em;
 margin-left: 1em;
 
@@ -61,7 +61,11 @@ a:hover{
     display: flex;
     margin-left: 5em;
 }
-
+.cajas{
+    
+    background-color: rgb(226, 229, 231);
+    border-radius: 5px;
+}
 @media(max-width: 1200px) {
     body{
         font-size: 0.875em;
