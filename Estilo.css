@@ -1,13 +1,16 @@
 body{
- background-color: rgb(9, 156, 112);
+background-color: rgb(8, 201, 111);
+ 
+ background-repeat: no-repeat;
  font-size: 16px;
 }
 
 
 .Contenedor{
-margin: 15em;
+margin-left: 10em;
+margin-top:  5em;
 justify-content: center;
-width: 30em;
+width: 50em;
 height: 70em;
 background-color: rgb(240, 236, 230);
 border: 5px ;
@@ -49,14 +52,16 @@ a:hover{
 }
 #p{
 
-    width: 15em;
+    width: 20em;
     height: 12em;
 }
 
 .logo{
 
     display: flex;
+    margin-left: 5em;
 }
+
 @media(max-width: 1200px) {
     body{
         font-size: 0.875em;
