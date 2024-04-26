@@ -124,7 +124,7 @@ height: 82em;
     }
     .Contenedor{
 
-margin-left: 5em;
+margin-left: 3em;
         width: 34em;
         height: 83em;
         
@@ -134,6 +134,6 @@ margin-left: 5em;
             #p{
 
                 width: 13em;
-                
+                height: 12em;
             }
 }
