@@ -79,11 +79,7 @@ a:hover{
         font-size: 0.812em;
 
     }
-    #Tamaño{
-        width: 51.3em;
-        height: 70em;
-
-     }
+  
 }
 @media(max-width: 768px) {
     body{
@@ -91,12 +87,7 @@ a:hover{
 
     }
 
-    #Tamaño{
-width: 51.3em;
-height: 70em;
 
-
-}
 }
 @media(max-width: 576px) {
     body{
@@ -108,19 +99,14 @@ height: 70em;
 
 
 width: 34em;
-height: 80em;
+height: 82em;
 
 }
-#Tamaño{
-    width: 51.3em;
-    height: 82em;
-    
-    
-    }
+
     #p{
 
-        width: 12em;
-        height: 12em;
+        width: 13em;
+        height: 13em;
     }
 }
 
@@ -136,19 +122,14 @@ height: 80em;
 
 
         width: 34em;
-        height: 82em;
+        height: 83em;
         
         
         }
-        #Tamaño{
-            width: 51.3em;
-            height: 20em;
-            
-            
-            }
+     
             #p{
 
-                width: 12em;
+                width: 13em;
                 
             }
 }
