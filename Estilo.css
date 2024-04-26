@@ -80,7 +80,7 @@ a:hover{
 
     }
     .Contenedor{
-        margin-left: 1em;
+        margin-left: 2em;
     }
   
 }
@@ -91,7 +91,7 @@ a:hover{
     }
     .Contenedor{
 
-        margin-left: 1em;
+        margin-left: 2em;
     }
 
 
@@ -104,7 +104,7 @@ a:hover{
 
 .Contenedor{
 
-    margin-left: 1em;
+    margin-left: 2em;
 width: 34em;
 height: 82em;
 
@@ -112,7 +112,7 @@ height: 82em;
 
     #p{
 
-        width: 13em;
+        width: 14em;
         height: 13em;
     }
 }
@@ -127,7 +127,7 @@ height: 82em;
     }
     .Contenedor{
 
-margin-left: 1em;
+margin-left: 2em;
         width: 34em;
         height: 83em;
         
@@ -136,7 +136,7 @@ margin-left: 1em;
      
             #p{
 
-                width: 13em;
+                width: 14em;
                 height: 12em;
             }
 }
