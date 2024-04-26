@@ -86,6 +86,10 @@ a:hover{
         font-size: 0.75em;
 
     }
+    .Contenedor{
+
+        margin-left: 3em;
+    }
 
 
 }
@@ -97,7 +101,7 @@ a:hover{
 
 .Contenedor{
 
-    margin-left: 5em;
+    margin-left: 3em;
 width: 34em;
 height: 82em;
 
