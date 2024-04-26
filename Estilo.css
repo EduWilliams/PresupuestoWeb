@@ -79,6 +79,9 @@ a:hover{
         font-size: 0.812em;
 
     }
+    .Contenedor{
+        margin-left: 3em;
+    }
   
 }
 @media(max-width: 768px) {
