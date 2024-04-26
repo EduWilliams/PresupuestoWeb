@@ -97,7 +97,7 @@ a:hover{
 
 .Contenedor{
 
-
+    margin-left: 5em;
 width: 34em;
 height: 82em;
 
@@ -115,12 +115,12 @@ height: 82em;
 @media(max-width: 300px) {
     body{
         font-size: 0.4375em;
-
+        
 
     }
     .Contenedor{
 
-
+margin-left: 5em;
         width: 34em;
         height: 83em;
         
