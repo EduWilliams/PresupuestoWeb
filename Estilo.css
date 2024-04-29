@@ -23,7 +23,7 @@ height: 70em;
 
 
 }
-h1,h2{
+h1,h2,h5{
 
 
     text-align: center;
@@ -66,6 +66,40 @@ a:hover{
     background-color: rgb(226, 229, 231);
     border-radius: 5px;
 }
+#plan{
+    background-color: rgb(165, 160, 160);
+    margin: 1em;
+
+    
+}
+ #des ul{
+
+    display: none;
+    
+}
+
+ #des a li:hover > ul{
+
+    display: block;
+   }
+
+   .cont{
+    margin-left: 5em;
+    text-align: center;
+    width: 80%;
+        background-color: rgb(211, 209, 208);
+        border-style: solid;
+        border: 1px 1px;
+        border-color :black ;
+        border-radius: 5px;
+ 
+   }
+   .plan{
+    list-style: none;
+   }
+   button{
+    margin:1em;
+   }
 @media(max-width: 1200px) {
     body{
         font-size: 0.875em;
@@ -105,7 +139,7 @@ a:hover{
 .Contenedor{
 
     margin-left: 2em;
-width: 34em;
+width: 37em;
 height: 82em;
 
 }
@@ -128,7 +162,7 @@ height: 82em;
     .Contenedor{
 
 margin-left: 2em;
-        width: 34em;
+        width: 37em;
         height: 83em;
         
         
