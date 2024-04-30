@@ -149,6 +149,11 @@ height: 82em;
         width: 14em;
         height: 13em;
     }
+    .cont{
+        margin-left: 1em;
+        width: 95%;
+
+    }
 }
 
 
@@ -172,5 +177,10 @@ margin-left: 2em;
 
                 width: 14em;
                 height: 12em;
+            }
+            .cont{
+                margin-left: 1em;
+                width: 95%;
+
             }
 }
