@@ -11,7 +11,7 @@ margin-left: 10em;
 margin-top:  5em;
 justify-content: center;
 width: 50em;
-height: 70em;
+height: 72em;
 background-color: rgb(240, 236, 230);
 border: 5px ;
 border-radius: 5px;
@@ -98,7 +98,7 @@ a:hover{
     list-style: none;
    }
    button{
-    margin:1em;
+    margin-left:0.7em;
    }
 @media(max-width: 1200px) {
     body{
