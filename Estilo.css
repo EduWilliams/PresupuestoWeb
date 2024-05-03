@@ -108,7 +108,7 @@ a:hover{
     
     
 }
-@media(max-width: 992px) {
+@media(max-width: 1024px) {
     body{
         font-size: 0.812em;
 
@@ -130,7 +130,7 @@ a:hover{
 
 
 }
-@media(max-width: 576px) {
+@media(max-width: 480px) {
     body{
         font-size: 0.5625em;
 
