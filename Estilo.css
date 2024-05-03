@@ -158,7 +158,7 @@ height: 82em;
 
 
 
-@media(max-width: 300px) {
+@media(max-width: 320px) {
     body{
         font-size: 0.4375em;
         
