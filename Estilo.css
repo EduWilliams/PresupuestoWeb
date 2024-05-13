@@ -107,7 +107,7 @@ margin-left: 1em;
 
  
    #pagina{
-    background-color: rgb(175, 149, 149);
+    background-color: rgb(216, 199, 199);
     margin-left: 7em;
     width: 70%;
     height: 3em;
@@ -116,7 +116,7 @@ margin-left: 1em;
 
    #pagina:hover{
 
-    background-color: rgb(104, 76, 76);
+    background-color: rgb(219, 214, 214);
     color: white;
    }
 
